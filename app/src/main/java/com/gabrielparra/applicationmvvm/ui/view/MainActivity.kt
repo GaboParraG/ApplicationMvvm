@@ -6,7 +6,6 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.core.view.isVisible
 import androidx.lifecycle.Observer
-import com.gabrielparra.applicationmvvm.R
 import com.gabrielparra.applicationmvvm.databinding.ActivityMainBinding
 import com.gabrielparra.applicationmvvm.ui.viewmodel.QuoteViewModel
 import com.gabrielparra.applicationmvvm.utils.toast
